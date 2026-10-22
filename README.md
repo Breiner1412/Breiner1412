@@ -72,7 +72,7 @@ Ahora mismo estoy con un sistema de gestión para granjas avícolas y aprendiend
 | --- | --- | --- |
 | **Sistema de gestión para granjas avícolas** | Gestión multi-finca de producción, bodegas, vacunación y ventas, con roles diferenciados y registro auditable de cada operación. | Next.js · TypeScript · Tailwind · Docker |
 | **Sistema de Gestión Técnica Integral** | Mesa de soporte para un proveedor de internet: bandeja de casos con semáforo de SLA, escalamiento y detección de abonados recurrentes. | Laravel · MySQL · Livewire |
-| **[Anime Trivia](https://trivia-h7a2.onrender.com)** | Juego de preguntas con nueve categorías y modo supervivencia; el panel de administración genera las preguntas con IA. | Next.js · Supabase · Gemini API |
+| **Anime Trivia** | Juego de preguntas con nueve categorías y modo supervivencia; el panel de administración genera las preguntas con IA. | Next.js · Supabase · Gemini API |
 | **Venta de boletería en línea** | Compra de boletas, generación de la boleta en PDF, envío por correo y pasarela de pagos integrada. | Next.js · Supabase · Wompi · Brevo |
 | **Sistema de registro de ingreso** | Control de entradas y salidas por escaneo de documento, con panel administrativo y reportes. | JavaScript · Firebase |
 
